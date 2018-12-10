@@ -36,3 +36,7 @@
 
 ------
 
+2018年12月10日
+
+[js中的事件委托/事件代理](http://www.cnblogs.com/liugang-vip/p/5616484.html?tdsourcetag=s_pcqq_aiomsg)
+
