@@ -44,6 +44,8 @@
 
 ---
 
+2018年12月11日
+
 [ES6新语法概览](https://www.cnblogs.com/liubn/p/5694902.html?tdsourcetag=s_pcqq_aiomsg)
 
 ES6 的一些比较常见的语法，包括箭头函数、let、const、Classes、解构、Rest + Spread、对象字面量扩展、模版字符串、Iterators（迭代器）、Generators、for…of && for…in等语法。
