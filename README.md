@@ -65,3 +65,5 @@ CSDN 中的一篇博客，总结了let和const命令、块级作用域、变量�
 [浅谈前端移动端页面开发（布局篇）](https://blog.csdn.net/u010852544/article/details/53538362?tdsourcetag=s_pcqq_aiomsg)
 
 介绍了 viewport 知识、设备的概念、rem 布局、安卓和 ios 的一些基本情况。
+
+缓存进去了
