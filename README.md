@@ -57,3 +57,11 @@ ES6 的一些比较常见的语法，包括箭头函数、let、const、Classes�
 [ES6笔记上（深入浅出ES6—阮一峰）](https://blog.csdn.net/qq_35036255/article/details/80344748?tdsourcetag=s_pcqq_aiomsg)
 
 CSDN 中的一篇博客，总结了let和const命令、块级作用域、变量的解构赋值、字符串的扩展、数值的扩展、Math对象的扩展等ES6知识。
+
+---
+
+2018年12月13日
+
+[浅谈前端移动端页面开发（布局篇）](https://blog.csdn.net/u010852544/article/details/53538362?tdsourcetag=s_pcqq_aiomsg)
+
+介绍了 viewport 知识、设备的概念、rem 布局、安卓和 ios 的一些基本情况。
