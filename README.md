@@ -66,3 +66,14 @@ CSDN 中的一篇博客，总结了let和const命令、块级作用域、变量�
 
 介绍了 viewport 知识、设备的概念、rem 布局、安卓和 ios 的一些基本情况。
 
+[几个有趣的名词--语法糖、语法盐等](http://blog.51cto.com/baikkp/1139021?tdsourcetag=s_pcqq_aiomsg)
+
+介绍了语法糖、语法盐、语法糖精和语法海洛因这几个计算机名词。
+
+---
+
+2018年12月14日
+
+[CSS小技巧](https://juejin.im/post/59f0991c518825489732efb3?tdsourcetag=s_pcqq_aiomsg)
+
+一些开发项目的的经验，通过 CSS 辅助写好 JS 逻辑代码。包括选择单项显示的样式实现、用伪类显示单位、三角形样式的实现、div不定宽垂直居中、奇怪的间隙等知识。
