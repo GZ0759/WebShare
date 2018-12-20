@@ -52,7 +52,7 @@ ES6 的一些比较常见的语法，包括箭头函数、let、const、Classes�
 
 ------
 
-[2018年12月12日
+2018年12月12日
 
 [ES6笔记上（深入浅出ES6—阮一峰）](https://blog.csdn.net/qq_35036255/article/details/80344748?tdsourcetag=s_pcqq_aiomsg)
 
@@ -101,6 +101,18 @@ CSDN 中的一篇博客，总结了let和const命令、块级作用域、变量�
 [Vue2.0的三种常用传值方式](https://blog.csdn.net/lander_xiong/article/details/79018737?tdsourcetag=s_pcqq_aiomsg)
 
 父子组件的关系可以总结为 prop 向下传递，事件向上传递。父组件通过 prop 给子组件下发数据，子组件通过事件给父组件发送消息。非父子组件之间传值，需要定义个公共的公共实例文件bus.js，作为中间仓库来传值，不然路由组件之间达不到传值的效果。
+
+---
+
+2018年12月20日
+
+[想写好前端，先练好内功](https://www.yuque.com/es2049/blog/al62bl)
+
+介绍开闭原则、函数式编程、消息机制这三个软件工程中重要的思想方法。
+
+
+
+
 
 
 
